@@ -1,7 +1,7 @@
 import string
 import random
 
-target_str = "Life for you's been less than kind, so take a number and stand in line. We've all been sorry we've all been hurt, but how we survive is what makes us who we are"
+target_str = "We will, we will rock you"
 initial_population = 1000
 # generations = 2000
 mutations_in_agent = len(target_str) // 3
