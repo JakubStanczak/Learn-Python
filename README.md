@@ -20,5 +20,5 @@ Machine learning (using sklearn, pyplot and pandas):
   b) Nearest Neighbours - checks the accuracy for the Nearest Neighbours classifier depending on set parameters and plots the results
   c) Random Forest - checks the accuracy for the Random Forest classifier depending on set parameters and plots the results
   
-  YOU CAN FIND THOSE PROGRAMS CONVERTED TO EXE HERE:
-  
+YOU CAN FIND THOSE PROGRAMS CONVERTED TO EXE HERE:
+https://drive.google.com/open?id=1bMtM6kNanDQiD5_j1rQgWbyCppTZnSSn
