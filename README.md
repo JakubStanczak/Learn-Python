@@ -23,5 +23,5 @@ c) Random Forest - checks the accuracy for the Random Forest classifier dependin
 Checkers - MiniMax algorithm, with alpha beta pruning and maxdepth,  playing checkers. You can play against the algorithm or make two algorithms play against each other (one has lower max depth than other)
  
  
-YOU CAN FIND THOSE PROGRAMS CONVERTED TO EXE, AND RECORDED VIDEOS SHOWING HOW THEY WORK, HERE:
-https://drive.google.com/open?id=1bMtM6kNanDQiD5_j1rQgWbyCppTZnSSn
+YOU CAN FIND RECORDED VIDEOS SHOWING HOW THOSE PROGRAMS WORK, HERE:
+http://bit.ly/Learn_python_vid
